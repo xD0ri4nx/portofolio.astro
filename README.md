@@ -37,7 +37,7 @@ Want to run this project locally?
 
 ### 1.Clone the repository
 
-git clone [https://github.com/xD0ri4nx/portfolio.git](https://github.com/xD0ri4nx/portfolio.git)
+git clone [https://github.com/xD0ri4nx/portfolio.git](https://github.com/xD0ri4nx/portfolio.astro.git)
 cd portfolio
 
 
