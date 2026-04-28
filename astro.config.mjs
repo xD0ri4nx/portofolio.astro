@@ -7,7 +7,7 @@ export default defineConfig({
   site: 'https://xD0ri4nx.github.io',
   
   // 🔍 SANITY CHECK: The sub-path of your repository
-  base: '/portfolio.astro/',
+  base: '/portfolio',
   
   // Ensures Vite processes Tailwind v4 correctly during the production build
   vite: {
