@@ -7,7 +7,7 @@
 
 A high-performance, static-first developer portfolio featuring a custom Synthwave/Glassmorphism design. Built to achieve a perfect 100/100 Core Web Vitals score by shipping zero JavaScript to the client by default.
 
-🌐 **Live Demo:** [xD0ri4nx.github.io/portfolio](https://xD0ri4nx.github.io/portfolio.astro/)
+🌐 **Live Demo:** [xD0ri4nx.github.io/portfolio](https://xd0ri4nx.github.io/portofolio.astro/)
 
 ---
 
