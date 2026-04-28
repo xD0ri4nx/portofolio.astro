@@ -1,15 +1,15 @@
 import { defineConfig } from 'astro/config';
 import tailwindv4 from '@tailwindcss/vite';
 
-// https://astro.build/config
 export default defineConfig({
-  // 🔍 SANITY CHECK: Verified base URL for GitHub Pages
   site: 'https://xD0ri4nx.github.io',
   
-  // 🔍 SANITY CHECK: The sub-path of your repository
-  base: '/portfolio',
+  // 🔍 SANITY CHECK: This tells both local dev and GitHub Pages where your site lives!
+  base: '/portfolio', 
   
-  // Ensures Vite processes Tailwind v4 correctly during the production build
+  build: {
+    assetsPrefix: './'
+  },
   vite: {
     plugins: [tailwindv4()],
   },
